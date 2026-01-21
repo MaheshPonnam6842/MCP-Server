@@ -1,4 +1,4 @@
-This is exactly i copied and pasted but still no preview # 🚖 Cab Service MCP Server
+
 
 A lightweight **Model Context Protocol (MCP)** server that powers MakeYourTrip’s next-gen **Cab Service Platform**.  
 This project combines **Google Maps** and a custom **Cab Booking** system to help users plan trips, explore routes, and book rides — all through natural conversation with tools like **Claude Desktop**.
@@ -36,5 +36,6 @@ Claude / LLM
 ```
 
 Together, they make your AI assistant capable of real-time travel planning and booking.
+
 
 
